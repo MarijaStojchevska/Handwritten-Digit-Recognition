@@ -1,5 +1,5 @@
 # Hand_Written_Digits_Recognition
-Training different types of Neural Networks in order to get higher accuracy on MNIST test set.
+Training different types of Neural Networks in order to achieve higher accuracy on MNIST test set.
 ______________________________________________________________________________________________
 Feed Forward Neural Network: test accuracy up to 98%,
 Convolutional Neural Network: test accuracy up to 98.8%,
