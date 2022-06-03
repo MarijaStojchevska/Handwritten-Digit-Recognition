@@ -1,4 +1,4 @@
-# Hand_Written_Digits_Recognition
+# Hand Written Digits Recognition
 Training different types of Neural Networks in order to achieve as higher as possible accuracy on MNIST data set.
 ______________________________________________________________________________________________
 Feed Forward Neural Network: test accuracy up to 98%,
